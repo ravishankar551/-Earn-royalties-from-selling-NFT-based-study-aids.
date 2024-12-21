@@ -5,6 +5,9 @@ The StudyAidNFT smart contract allows creators to mint and sell educational cont
 
 ## Contract Address
 0xA419E3b714c3162f968889aC5FDBe7737E42B12c
+![image](https://github.com/user-attachments/assets/66fd296d-39a3-4dd7-9838-eba9d1d9388d)
+
+
 
 ## Project Vision
 To empower educators and content creators by providing a platform to monetize educational materials securely and transparently, leveraging the power of blockchain technology.
